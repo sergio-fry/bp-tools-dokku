@@ -1,1 +1,1 @@
-FROM udalov/bp-tools:1
+FROM udalov/bp-tools:2
